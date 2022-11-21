@@ -1,0 +1,14 @@
+com/example/Project_Plan/ProjectPlan/Project.class
+com/example/Project_Plan/Service/TaskDependenciesService.class
+com/example/Project_Plan/ProjectManager.class
+com/example/Project_Plan/Service/TasksService.class
+com/example/Project_Plan/Calculator.class
+com/example/Project_Plan/Repository/TaskDependenciesRepository.class
+com/example/Project_Plan/ProjectPlan/TaskDependencies.class
+com/example/Project_Plan/ProjectPlanApplication.class
+com/example/Project_Plan/Repository/TasksRepository.class
+com/example/Project_Plan/TaskManager.class
+com/example/Project_Plan/Service/ProjectsService.class
+com/example/Project_Plan/Repository/ProjectsRepository.class
+com/example/Project_Plan/ProjectPlanProcess.class
+com/example/Project_Plan/ProjectPlan/Task.class
